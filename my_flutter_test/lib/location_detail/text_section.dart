@@ -11,7 +11,7 @@ class TextSection extends StatelessWidget {
       decoration: BoxDecoration(
         color: _color,
       ),
-      child: Text('data'),
+      child: Text(''),
     );
   }
 }
