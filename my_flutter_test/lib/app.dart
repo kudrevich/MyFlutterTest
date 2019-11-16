@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_flutter_test/location_detail/location_detail.dart';
 
-class MyApp extends StatelessWidget {
+class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
